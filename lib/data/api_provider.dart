@@ -1,0 +1,4 @@
+/*
+contains logic for communicating with the server using your desired
+networking package
+*/
